@@ -1,0 +1,12 @@
+{
+  "wind_speed_kmh": 22,
+  "wind_from_deg": 225,
+  "moisture": "summer",
+  "temperature_c": 18,
+  "relative_humidity_pct": 63,
+  "ignition": "east",
+  "engine": "mtt",
+  "ros_multiplier": 1.0,
+  "out_dir": "../custom_run_output",
+  "make_animation": false
+}
